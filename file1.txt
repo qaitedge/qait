@@ -1,0 +1,9 @@
+git status 
+git add.. 
+git clone 
+git diff
+
+i made some changes 
+
+2nd branch 
+I asm in my 2nd branch 
